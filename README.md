@@ -1,131 +1,158 @@
-<!-- Improved compatibility of back to top link -->
-<a id="readme-top"></a>
-
 <!-- PROJECT SHIELDS -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![GitHub][github-shield]][github-url]
+[![Kaggle][kaggle-shield]][kaggle-url]
+[![Portfolio][portfolio-shield]][portfolio-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MahidharaS">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Data, AI & Automation Projects</h3>
-
+  <h3 align="center">Mahidhara S</h3>
   <p align="center">
-    Real-world analytics, machine learning, and AI systems built for business impact
+    ML Engineer | Business Analyst | Data & AI Professional
     <br />
-    <a href="https://mahidhara.vercel.app"><strong>View Portfolio »</strong></a>
+    <a href="https://mahidhara.vercel.app"><strong>Portfolio »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MahidharaS">View Repositories</a>
-    ·
-    <a href="https://github.com/MahidharaS/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/MahidharaS/issues">Request Feature</a>
+    <a href="https://github.com/MahidharaS">GitHub</a>
+    &middot;
+    <a href="https://www.linkedin.com/in/mahidhara-s">LinkedIn</a>
+    &middot;
+    <a href="https://www.kaggle.com/mahidharas">Kaggle</a>
   </p>
 </div>
-
----
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#projects">Projects</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#technical-skills">Technical Skills</a></li>
+    <li><a href="#professional-experience">Professional Experience</a></li>
+    <li><a href="#key-projects">Key Projects</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#certifications">Certifications</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
----
+<!-- ABOUT ME -->
+## About Me
 
-## About The Project
-
-This repository showcases **end-to-end Data Analytics, Machine Learning, BI, and AI Automation projects** built with a strong focus on **real business problems**.
-
-The work here reflects my experience as a **Machine Learning Engineer & Business Analyst**, where I operate across:
-- Forecasting & capacity planning  
-- Dashboard automation & BI  
-- AI agents, LLMs, and workflow automation  
-- Sales, operations, and delivery analytics  
-
-### Why this repository?
-
-- Demonstrates **production-minded analytics**, not just notebooks
-- Combines **business thinking + technical execution**
-- Built for **scalability, clarity, and decision-making**
+Business operator with deep analytics and AI leverage, currently running day-to-day operations, sales, and delivery for AI-driven EdTech and healthcare products. Experienced in translating demand signals into scalable systems—from forecasting growth and allocating resources to closing enterprise deals and improving service efficiency. Known for building operational clarity in high-ambiguity environments by combining data, automation, and hands-on leadership.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
+<!-- TECHNICAL SKILLS -->
+## Technical Skills
 
-### Built With
+### Programming & Data
+- **Languages:** Python, SQL, R, Excel
+- **Libraries:** NumPy, Pandas, Scikit-learn
 
-Core tools and technologies used across projects:
+### ML & AI
+- **Frameworks:** TensorFlow, Keras
+- **Techniques:** NLP, LLMs, RAG, Deep Learning, Neural Networks, Clustering, Regression Analysis
+- **Tools:** Crew AI, Langchain, Agentic AI
 
-* Python  
-* SQL / MySQL / MS SQL Server  
-* Power BI & Tableau  
-* Pandas, NumPy  
-* TensorFlow, Keras, Scikit-learn  
-* NLP, LLMs, RAG, Agentic AI  
-* Azure  
-* n8n, LangChain, CrewAI  
+### Visualization & BI
+- **Tools:** Power BI, Tableau, Data Storytelling
+- **Methods:** Statistical Analysis, Predictive Analytics, Data Modeling, A/B Testing
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## Projects
-
-Some highlighted work from this repository:
-
-- **Supply Chain KPI Automation**  
-  End-to-end ETL pipeline integrating SQL with Power BI/Tableau dashboards
-
-- **Car Price Prediction (Deep Learning)**  
-  ANN model outperforming traditional regression approaches
-
-- **Social Media Revenue Mapping**  
-  Engagement vs revenue analysis with segmented BI dashboards
-
-- **Operations & Workforce Analytics**  
-  Forecasting, capacity planning, SLA tracking, and utilization reporting
+### Platforms & Tools
+- **Cloud:** Azure
+- **Automation:** n8n, VectorShift, Dify, Stack AI
+- **Processes:** ETL Pipelines, Workflow Automation, Supply Chain Management
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
+<!-- PROFESSIONAL EXPERIENCE -->
+## Professional Experience
 
-## Getting Started
+### Machine Learning Engineer
+**Digital Maven** | Bangalore, India | Mar 2025 – Present
+- Own workforce, demand, and capacity planning for sales, marketing, and program delivery functions
+- Translate forecasts into actionable staffing, scheduling, and workload allocation plans
+- Lead operational planning and execution of automation initiatives (lead management, outreach, CRM workflows)
+- Monitor real-time performance metrics and proactively adjust priorities to manage volume fluctuations
+- Generate operational reports and dashboards with data-backed recommendations
+- Maintain accurate operational data across systems to ensure forecasting accuracy
 
-Follow these steps to run projects locally.
+### Business Analyst
+**Digital Maven** | Bangalore, India | Oct 2024 – Mar 2025
+- Closed ₹5L+ in direct sales through consulting, presentations, and institutional outreach
+- Hosted webinars, delivered analytics bootcamps, and led corporate training modules
+- Directed campaign analytics, SEO strategy, and internal documentation workflows
+- Managed operations, content, HR, and task delegation across a 5-member delivery team
 
-### Prerequisites
+### Graduate Engineer Trainee (Production Engineer)
+**Triton Valves Pvt Ltd** | Mysore, India | Jul 2020 – Aug 2021
+- Improved shift efficiency by 10%+ using real-time metrics and process tuning
+- Led 65-member team; resolved bottlenecks via statistical methods and dashboarding
 
-- Python 3.9+
-- pip
-- SQL Database (MySQL / MS SQL)
-- Power BI / Tableau (for dashboards)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```sh
-pip install --upgrade pip
+<!-- KEY PROJECTS -->
+## Key Projects
+
+### Supply Chain KPI Automation | ExcelR | Aug 2024
+Built live ETL pipeline integrating SQL with Power BI/Tableau dashboards, eliminating manual reporting lag
+
+### Car Price Prediction (Deep Learning) | RIMS | Jul 2024
+Developed ANN model on CarDekho data that outperformed traditional linear regressors
+
+### Social Media Revenue Mapping | RIMS | Feb 2024
+Analyzed engagement-revenue correlation and built segmented performance dashboards
+
+### Railway Energy Harvesting Prototype | NIE | Feb 2019
+Built rack-pinion system generating 250W/180V under live track conditions
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- EDUCATION -->
+## Education
+
+### PGDM (Business Analytics & Marketing)
+**Ramaiah Institute of Management Studies (RIMS)** | Bangalore | 2022–2024
+
+### BE (Mechanical Engineering)
+**NIE Institute of Technology** | Mysore | 2015–2019
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CERTIFICATIONS -->
+## Certifications
+
+- **Business Analytics (Level 1 & 2)** – KPMG
+- **Data Analyst** – ExcelR
+- **Python & MySQL** – Hoch Tech
+- **Introduction to Data Science** – Cisco
+- **Excel Skills** – JPMorgan Chase
+- **Social Media Marketing** – Semrush
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+**Email:** nsbagadi@gmail.com  
+**Phone:** +91 9482179628  
+**Location:** Bangalore, Karnataka, India
+
+**Links:**
+- [Portfolio](https://mahidhara.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/mahidhara-s)
+- [GitHub](https://github.com/MahidharaS)
+- [Kaggle](https://www.kaggle.com/mahidharas)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mahidhara-s
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/MahidharaS
+[kaggle-shield]: https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+[kaggle-url]: https://www.kaggle.com/mahidharas
+[portfolio-shield]: https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white
+[portfolio-url]: https://mahidhara.vercel.app
