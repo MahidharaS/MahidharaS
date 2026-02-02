@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <>Table of Contents</summary>
   <ol>
     <li><a href="#about-me">About Me</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
@@ -46,23 +46,11 @@ Business operator with deep analytics and AI leverage, currently running day-to-
 <!-- TECHNICAL SKILLS -->
 ## Technical Skills
 
-### Programming & Data
-- **Languages:** Python, SQL, R, Excel
-- **Libraries:** NumPy, Pandas, Scikit-learn
-
-### ML & AI
-- **Frameworks:** TensorFlow, Keras
-- **Techniques:** NLP, LLMs, RAG, Deep Learning, Neural Networks, Clustering, Regression Analysis
-- **Tools:** Crew AI, Langchain, Agentic AI
-
-### Visualization & BI
-- **Tools:** Power BI, Tableau, Data Storytelling
-- **Methods:** Statistical Analysis, Predictive Analytics, Data Modeling, A/B Testing
-
-### Platforms & Tools
-- **Cloud:** Azure
-- **Automation:** n8n, VectorShift, Dify, Stack AI
-- **Processes:** ETL Pipelines, Workflow Automation, Supply Chain Management
+Latest release: [![Python](https://img.shields.io/badge/Python-3.10.0-blue?style=for-the-badge)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-v2022-blue?style=for-the-badge)](https://www.w3schools.com/sql/) [![R](https://img.shields.io/badge/R-4.2.0-blue?style=for-the-badge)](https://www.r-project.org/) [![Excel](https://img.shields.io/badge/Excel-2021-blue?style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
+Master branch status: [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12.0-blue?style=for-the-badge)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-2.12.0-blue?style=for-the-badge)](https://keras.io/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-blue?style=for-the-badge)](https://scikit-learn.org/)
+Social: [![NLP](https://img.shields.io/badge/NLP-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural-language_processing) [![LLMs](https://img.shields.io/badge/LLMs-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) [![RAG](https://img.shields.io/badge/RAG-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Retrieval-Augmented_Generation)
+Browser Support: [![Power BI](https://img.shields.io/badge/Power%20BI-2022-blue?style=for-the-badge)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-2022.4-blue?style=for-the-badge)](https://www.tableau.com/) [![Azure](https://img.shields.io/badge/Azure-2023-blue?style=for-the-badge)](https://azure.microsoft.com/)
+Most recent build: [![n8n](https://img.shields.io/badge/n8n-0.25.0-blue?style=for-the-badge)](https://n8n.io/) [![VectorShift](https://img.shields.io/badge/VectorShift-v1.0-blue?style=for-the-badge)](https://vectorshift.com/) [![Dify](https://img.shields.io/badge/Dify-v1.0-blue?style=for-the-badge)](https://dify.ai/) [![Stack AI](https://img.shields.io/badge/Stack%20AI-v1.0-blue?style=for-the-badge)](https://stackai.com/) [![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Extract,_transform,_load) [![Crew AI](https://img.shields.io/badge/Crew%20AI-v1.0-blue?style=for-the-badge)](https://crewai.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
