@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Mahidhara S</h3>
+  <h1 align="center">Mahidhara S</h1>
   <p align="center">
     ML Engineer | Business Analyst | Data & AI Professional
     <br />
