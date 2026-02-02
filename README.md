@@ -48,7 +48,7 @@ Business operator with deep analytics and AI leverage, currently running day-to-
 
 Latest release: [![PYTHON](https://img.shields.io/badge/PYTHON-3.10.0-blue?style=for-the-badge)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-v2022-blue?style=for-the-badge)](https://www.w3schools.com/sql/) [![R](https://img.shields.io/badge/R-4.2.0-blue?style=for-the-badge)](https://www.r-project.org/) [![EXCEL](https://img.shields.io/badge/EXCEL-365-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-Master branch status: [![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-2.12.0-blue?style=for-the-badge)](https://www.tensorflow.org/) [![KERAS](https://img.shields.io/badge/KERAS-2.12.0-blue?style=for-the-badge)](https://keras.io/) [![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT-LEARN-1.2.2-blue?style=for-the-badge)](https://scikit-learn.org/)
+Master branch status: [![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-2.12.0-blue?style=for-the-badge)](https://www.tensorflow.org/) [![KERAS](https://img.shields.io/badge/KERAS-2.12.0-blue?style=for-the-badge)](https://keras.io/) [![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-1_2_2-blue?style=for-the-badge)](https://scikit-learn.org/)
 
 Social: [![NLP](https://img.shields.io/badge/NLP-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural-language_processing) [![LLMS](https://img.shields.io/badge/LLMS-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) [![RAG](https://img.shields.io/badge/RAG-v1.0-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Retrieval-Augmented_Generation)
 
